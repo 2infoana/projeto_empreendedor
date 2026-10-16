@@ -2,8 +2,6 @@
 package br.com.senai.infoa.backend.projeto_empreendedor.models;
 
 import java.util.List;
-
-import br.com.senai.infoa.backend.projeto_empreendedor.models.Produto;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
